@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kaito/OneDrive/sotsuron/modelsim
+vconv_cell
+Z0 !s110 1545117571
+!i10b 1
+!s100 hB[zJF3TJC?H0biZ8NUBD2
+I7[mP?F@>ihEdhbK6JVl<U0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell
+w1545117568
+8C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/cell.v
+FC:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/cell.v
+L0 21
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1545117571.000000
+!s107 C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/cell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/cell.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vconv_mesh
+R0
+!i10b 1
+!s100 ^@E38l6FFOKU<:YXoICQS2
+IJhSJR9cHSJ3chzVJS88l_0
+R1
+R2
+w1545036396
+8C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh.v
+FC:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh.v|
+!s101 -O0
+!i113 1
+R5
+vconv_sim
+R0
+!i10b 1
+!s100 RjSQ9T`3]5V@jNE3_:zFJ2
+ICAef0D1T:N3jQhbk:I3Y>3
+R1
+R2
+w1545115674
+8C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh_sim.v
+FC:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh_sim.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kaito/OneDrive/sotsuron/modelsim/conv_cell/mesh_sim.v|
+!s101 -O0
+!i113 1
+R5
